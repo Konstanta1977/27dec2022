@@ -11,7 +11,13 @@
 добавили второй файл
 
 gbie cnhjxre d vfcntht xnj,s 
+<<<<<<< HEAD
 
 пишем новую в мастере
 
 
+=======
+ 
+ Тестим....
+ghbdtn
+>>>>>>> faf1210d2f8a12d494fb87162cf66d39f0a0cb9e
