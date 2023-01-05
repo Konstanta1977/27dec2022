@@ -12,3 +12,6 @@
 
 gbie cnhjxre d vfcntht xnj,s 
 
+пишем новую в мастере
+
+
